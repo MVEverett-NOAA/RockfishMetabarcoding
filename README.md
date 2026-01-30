@@ -6,4 +6,4 @@ The primers were developed to identify northeast Pacific rockfish species, and _
 Details including primer sequence, code supporting database development and update as well as the most current version of the database can be found in the [Metabarcoding](https://github.com/MVEverett-NOAA/RockfishMetabarcoding/tree/Metabarcoding) section.
 
 Details on the genome skimming efforts carried out to fill in species gaps and look for additional species haplotypes can be found in the Genome Skimming section.
-(https://github.com/user-attachments/assets/e38cfdbd-6239-4508-b824-f52033b55f27)
+
